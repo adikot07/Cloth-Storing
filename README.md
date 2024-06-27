@@ -1,1 +1,1 @@
-This website build by me and my friend for our internship work in summer internship.
+This website  is built by me and my friend for our project for summer internship.
